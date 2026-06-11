@@ -1,6 +1,6 @@
 
-### Purpose 
-Detached repository for Git Documentation study materials
+### Description  
+Detached repository for [Git documentation](https://git-scm.com/) study materials
 
-### Associations
-More information, study path, summary in [detached Notion Page](https://www.notion.so/kuzminklk/Git-31a54d4de0358009a435dca686ba7bed?source=copy_link)
+### Purpose
+Part of computer-science study curriculum availabe in [Notion](https://app.notion.com/p/kuzminklk/31154d4de03580d7b5ceca5b187846be) (private for now)
