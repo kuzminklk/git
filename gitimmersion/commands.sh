@@ -1,11 +1,8 @@
-
-
 # Initialization
 git init
 
 # Status
 git status
-
 
 # Staging and commiting
 git add -A # Add to stage
@@ -17,7 +14,6 @@ git restore # Return to unmodified version
 git commit -m "Write tests"
 
 git reset HEAD # Reset staged area
-
 
 # History
 git log
@@ -34,7 +30,6 @@ git history main --all # git history = git log --pretty=format:'%h %ad | %s%d [%
 git tag
 git tag -d <name>
 
-
 # Go to commit, branch
 git checkout
 
@@ -44,10 +39,8 @@ git revert HEAD
 # Reset history to some commit
 git reset --hard <hash>
 
-
 # See files in repo
 git cat-file -p <hash>
-
 
 # Create and change branch
 git checkout -b <branch-name>
@@ -59,7 +52,6 @@ hit rebase # For linear history
 
 # Change branch
 git checkout <branch-name>
-
 
 # Clone
 git clone <name> <new-name>

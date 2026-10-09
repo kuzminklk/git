@@ -1,4 +1,3 @@
-
 # Configuration
 git config --global user.name 'kuzminklk' (?)
 git config --global user.email '...' (?)
