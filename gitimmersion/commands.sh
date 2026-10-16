@@ -47,7 +47,7 @@ git checkout -b <branch-name>
 git branch <branch-name> -> git checkout <branch-name>
 
 # Merge branches
-git merge 
+git merge
 hit rebase # For linear history
 
 # Change branch
